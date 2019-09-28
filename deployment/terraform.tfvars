@@ -1,0 +1,6 @@
+bucket = "irio-scraper-0xbeef"
+cloud_source_repository = "github_irio_wohnung"
+crontab_schedule = "44 8 * * *"
+project = "irio-scraper"
+region = "us-east1"
+zone = "us-east1-b"
