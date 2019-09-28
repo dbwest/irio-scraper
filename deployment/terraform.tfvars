@@ -1,5 +1,5 @@
 bucket = "irio-scraper-0xbeef"
-cloud_source_repository = "github_irio_wohnung"
+cloud_source_repository = "github_dbwest_irio-scraper"
 crontab_schedule = "44 8 * * *"
 project = "irio-scraper"
 region = "us-east1"
